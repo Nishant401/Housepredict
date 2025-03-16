@@ -31,7 +31,6 @@ The project uses the **House Sales in King County, USA** dataset, which contains
 
 ### Correlation Analysis
 
-![Correlation Matrix](correlation_matrix.png)
 
 The correlation matrix reveals important relationships between house features and price:
 - Strong positive correlations exist between price and features like square footage, grade, and number of bathrooms
@@ -40,13 +39,9 @@ The correlation matrix reveals important relationships between house features an
 
 ### Model Performance
 
-![Actual vs Predicted Prices](actual_vs_predicted.png)
-
 The scatter plot of actual versus predicted prices demonstrates the model's predictive capability. The model performs well for houses in the lower to mid-price range, with some deviation for higher-priced properties.
 
 ### Residual Analysis
-
-![Residual Plot](residual_plot.png)
 
 The residual plot reveals:
 - Relatively even distribution of residuals around zero for lower-priced homes
